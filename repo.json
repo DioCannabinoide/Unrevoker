@@ -7,6 +7,6 @@
   "version": "1.0",
   "icon": "icons/Icon.png",
   "banner":"icons/Banner.png",
-  "path": "pkgs/com.diocannabinoide.unrevoker.purekfd",
+  "path": "pkgs/com.diocannabinoide.unrevoker",
   "screenshots":["icons/Screenshot.png"]
 }
