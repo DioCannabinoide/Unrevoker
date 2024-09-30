@@ -1,0 +1,21 @@
+{
+  "operations": [
+    {
+      "type": "fileReplace", 
+      "path": "/private/var/db/MobileIdentityData/Rejections.plist",
+      "content": "" // Empty content for the new plist file
+    },
+    {
+      "type": "fileReplace",
+      "path": "/private/var/db/MobileIdentityData/AuthListBannedUpps.plist",
+      "content": "" 
+    },
+    {
+      "type": "fileReplace",
+      "path": "/private/var/db/MobileIdentityData/AuthListBannedCdHashes.plist",
+      "content": "" 
+    }
+
+  ],
+  "spec": "1.0"
+}

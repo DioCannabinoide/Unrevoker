@@ -1,0 +1,12 @@
+{
+  "name": "Unrevoker",
+  "bundleid": "com.diocannabinoide.unrevoker",
+  "author": "DioCannabinoide",
+  "description": "Unrevoker tweak",
+  "long_description": "Unrevoker tweak",
+  "version": "1.0",
+  "icon": "icons/Icon.png",
+  "banner":"icons/Banner.png",
+  "path": "pkgs/com.diocannabinoide.unrevoker.purekfd",
+  "screenshots":["icons/Screenshot.png"]
+}
