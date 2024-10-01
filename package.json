@@ -4,7 +4,7 @@
   "author": "DioCannabinoide", 
   "description": "Unrevokes signing certificates on your device.", 
   "version": "1.0", 
-  "icon": "icons/Icon.png", 
-  "banner": "banners/Banner.png", 
+  "icon": "icons/icon.png", 
+  "banner": "banners/miscBanner.png", 
   "path": "/pkgs/com.diocannabinoide.unrevoker.purekfd"
 }
