@@ -1,10 +1,25 @@
 {
-  "name": "Unrevoker", 
-  "bundleId": "com.diocannabinoide.unrevoker", 
-  "author": "DioCannabinoide", 
-  "description": "Unrevokes signing certificates on your device.", 
-  "version": "1.0", 
-  "icon": "icons/icon.png", 
-  "banner": "banners/miscBanner.png", 
-  "path": "/pkgs/com.diocannabinoide.unrevoker.purekfd"
+  "spec":"1.0",
+  "repotype":"purekfdextended",
+  "name": "DioCannabinoide",
+  "description": "Repo for PureKFD Unrevoker tweak",
+  "icon": "assets/icon.png",
+  "featured": [
+    // Add featured packages and tweaks here
+  ],
+  "packages": [
+    {
+      "name": "Unrevoker",
+      "bundleid": "com.diocannabinoide.unrevoker",
+      "author": "DioCannabinoide",
+      "description": "Unrevoker tweak",
+      "long_description":"Unrevokes signing certificates on your device.",
+      "version": "1.0",
+      "icon": "icons/icon.png",
+      "banner":"icons/miscBanner.png",
+      "path": "pkgs/com.diocannabinoide.unrevoker.purekfd",
+      "screenshots":["icons/screenshot.png"],
+      "varOnly": true
+    }
+  ]
 }
