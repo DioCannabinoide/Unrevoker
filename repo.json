@@ -1,12 +1,26 @@
 {
+    "spec":"1.0",
+    "repotype":"purekfdextended",
+    "name": "DioCannabinoide",
+    "description": "Tweak repo for Unrevoker!",
+    "icon": "assets/icon.png",
+    "featured": [
+        
+    ],
+    "packages": [
+        {
   "name": "Unrevoker",
   "bundleid": "com.diocannabinoide.unrevoker",
   "author": "DioCannabinoide",
   "description": "Unrevoker tweak",
   "long_description": "Unrevoker tweak",
   "version": "1.0",
-  "icon": "icons/Icon.png",
-  "banner":"icons/Banner.png",
-  "path": "pkgs/com.diocannabinoide.unrevoker",
-  "screenshots":["icons/Screenshot.png"]
+  "icon": "icons/icon.png",
+  "banner":"icons/miscBanner.png",
+  "path": "pkgs/com.diocannabinoide.unrevoker.purekfd",
+  "screenshots":["icons/screenshot.png"]
+            ],
+            "varOnly":true
+        }
+    ]
 }
